@@ -17,24 +17,11 @@
 </head>
 <body>   
      <img src="65CCBF51-9688-4BBC-A1A4-C03F99559D67.jpeg" alt="imagens">
-    <p></p>
-    
-     <img src="Screenshot_20240704_234945_WhatsApp.jpg" alt="imagens">
-     <p>comando para criar um páragrafo para seu site</p>
-    
-     <img src="Screenshot_20240704_234955_WhatsApp.jpg" alt="imagens">
-     <p>colocar imagens em seu site</p>
-    
-     <img src="Screenshot_20240704_235006_WhatsApp.jpg" alt="imagens">
-     <p>titulo</p>
-    
-     <img src="Screenshot_20240704_235018_WhatsApp.jpg" alt="imagens">
-     <p>o conteudo vai dentro dessa tag</p>
-    
+    <p>
 <h>CSS</h>
-    <p>color: Define a cor do texto.</p>
-    
-   <p>background-color: Define a cor de fundo do elemento.</p>
+<p> color: define a cor do texto.</p>
+
+</p>hdcolor: Define a cor de fundo do elemento.</p>
     
     <p>font-family: Define a família de fontes.</p>
     
